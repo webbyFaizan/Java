@@ -20,12 +20,5 @@ public class Pattern {
             }
             System.out.println();
         }
-
-        for(int e=1;e<=5;e++){
-            for(int f=e;f<=5;f++){
-                System.out.print("    *");
-            }
-            System.out.println();
-        }
     }
 }

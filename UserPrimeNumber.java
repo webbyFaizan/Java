@@ -4,6 +4,7 @@ public class UserPrimeNumber {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int prime = sc.nextInt();
+        sc.close();
 
         if(prime<=1){
             System.out.println("Not a Prime Number");

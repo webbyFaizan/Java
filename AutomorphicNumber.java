@@ -1,4 +1,3 @@
-import java.util.*;
 public class AutomorphicNumber{
     public static void main(String[] args) {
         int n=625;

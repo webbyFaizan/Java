@@ -1,4 +1,4 @@
-package Array;
+package Array.Practice;
 
 public class SumOfArray {
     public static void main(String[] args) {

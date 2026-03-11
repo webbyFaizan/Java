@@ -7,7 +7,7 @@ interface A {
 
 interface B extends A {
     int x=30;
-    void m2();
+    void m2(); 
 }
 
 //  If we Don't implements both the method (m1, m2) in sub class then we have to make Demo class as abstract class.
